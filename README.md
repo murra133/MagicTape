@@ -25,7 +25,7 @@ The iPhone app and Tape measure combo provide real world coordinates relative to
 
 An intermediary server recieves and forwards any sent messages.
 
-A Rhino Plugin acts as the reciever node and
+A Rhino Plugin acts as the reciever node and caches all of the incoming data, displaying current and previous measurements.
 
 # 🧑‍💻 👩‍💻 Get Hacking
 
