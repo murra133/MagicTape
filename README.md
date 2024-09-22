@@ -68,7 +68,9 @@ A Rhino Plugin acts as the reciever node and
 - Soomeen Hahm
 - Poorva Joshi
 
-# Thanks
+# Acknowledgments
+
+Big thanks to AEC Tech LA 2024 for arranging this event! This project has been a great collaboration of several great minds. Please check out other hackathon projects and future hackathon events hosted by AECTech.
 
 # License
 
