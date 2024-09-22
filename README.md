@@ -59,6 +59,8 @@ A Rhino Plugin acts as the reciever node and
 - A DynamoDB database to host connections.
 - Serverless Lambda functions to route messages to connected components
 
+See src/Server for functions
+
 # Collaborators
 
 - Brian Murray
